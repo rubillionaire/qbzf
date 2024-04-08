@@ -1,5 +1,5 @@
 {
-  "name": "qbzf",
+  "name": "@rubenrodriguez/qbzf",
   "version": "1.2.1",
   "description": "quadratic bezier font format for rendering in a fragment shader",
   "bin": {
@@ -9,6 +9,7 @@
     "cubic2quad": "^1.2.1",
     "from2": "^2.3.0",
     "gl-vec2": "^1.3.0",
+    "ieee754": "^1.2.1",
     "line-segment-intersect-2d": "^1.0.0",
     "minimist": "^1.2.6",
     "opentype.js": "^1.3.4",
